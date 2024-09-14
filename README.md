@@ -88,7 +88,7 @@ just remember that you can't purchase success!
 # Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
-
+✅ - This is a test
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming)
